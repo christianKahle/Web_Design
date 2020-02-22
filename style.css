@@ -32,7 +32,8 @@ body {
 }
 
 .multiHeadphonesImg {
-	flex-basis:70%;
+	flex-basis:10%;
+	margin-bottom:10px;
 }
 
 .featureRow {
