@@ -19,4 +19,7 @@ body {
 
 .featureBox {
 	flex:1;
+	background-color:red;
+	margin-left:5px;
+	margin-right:5px;
 }
