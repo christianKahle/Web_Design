@@ -13,6 +13,7 @@ body {
 	background-color:#ECE8E6;
 	padding:10px;
 	border-radius: 2em;
+	margin-bottom:10px;
 }
 
 .topPart {
@@ -33,7 +34,6 @@ body {
 
 .multiHeadphonesImg {
 	flex-basis:10%;
-	margin-bottom:10px;
 }
 
 .featureRow {
@@ -42,8 +42,11 @@ body {
 
 .featureBox {
 	flex:1;
-	background-color:red;
+	background-color:#FFCCCB;
 	margin-left:5px;
 	margin-right:5px;
 	border-radius: 2em;
+	margin:5px;
+	text-align:center;
+	padding:5px;
 }
