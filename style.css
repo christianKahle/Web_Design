@@ -12,3 +12,11 @@ body {
 	background-color:#ECE8E6;
 	padding:10px;
 }
+
+.featureRow {
+	display:flex;
+}
+
+.featureBox {
+	flex:1;
+}
