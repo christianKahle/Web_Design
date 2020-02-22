@@ -15,6 +15,26 @@ body {
 	border-radius: 2em;
 }
 
+.topPart {
+	display:flex;
+	justify-content:center;
+}
+
+.leftCol {
+	flex:1;
+}
+
+.rightCol {
+	flex:1;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+
+.multiHeadphonesImg {
+	flex-basis:70%;
+}
+
 .featureRow {
 	display:flex;
 }
@@ -24,4 +44,5 @@ body {
 	background-color:red;
 	margin-left:5px;
 	margin-right:5px;
+	border-radius: 2em;
 }
